@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Georgios Fragkos / Ph.D. Student"
+title                    : "Georgios Fragkos"
 title_separator          : "-"
 name                     : &name "Georgios Fragkos"
-description              : &description "personal description"
+description              : &description "Ph.D. Student"
 url                      : https://geofragkos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "geofragkos/geofragkos.github.io"
