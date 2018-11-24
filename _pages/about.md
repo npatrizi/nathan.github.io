@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * I am a Ph.D student in the [Departement of Electrical and Computer Engineering](http://www.ece.unm.edu) at [University of New Mexico](http://www.unm.edu), since January 2019, as a member of the PROTON lab with [Prof. E.E.Tsiropoulou](http://www.ece.unm.edu/faculty-staff/electrical-and-computer/eirini-eleni-tsiropoulou.html) as an advisor. 
