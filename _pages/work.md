@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### 1. University of New Mexico, USA (January 2019 - Present)
-*Research Assistant, Performance and Resource Optimization Laboratory (PROTON LAB) *
+*Research Assistant, Performance and Resource Optimization Laboratory (PROTON LAB)*
 - Studied Reinforcement Learning, Game Theory in applications for Public Safety.
 
 ### 2. National Technical University of Athens (May 2017 - December 2018)
