@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://geofragkos.github.io/files/unm-ece-logo.png?raw=true" alt="Photo" style="width: 250px;"/> 
+  <img src="https://geofragkos.github.io/files/unm-ece-logo.png" alt="Photo" style="width: 250px;"/> 
 </p>
 
 * I am a Ph.D student in the [Departement of Electrical and Computer Engineering](http://www.ece.unm.edu) at [University of New Mexico](http://www.unm.edu), since January 2019, as a member of the PROTON lab with [Prof. E.E.Tsiropoulou](http://www.ece.unm.edu/faculty-staff/electrical-and-computer/eirini-eleni-tsiropoulou.html) as an advisor. 
