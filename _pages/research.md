@@ -9,3 +9,4 @@ author_profile: true
 - Game Theory
 - Public Safety
 - Resource Orchestration in Interdependent Systems
+- Blockchain
