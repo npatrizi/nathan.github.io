@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### 1. University of New Mexico, USA (January 2019 - Present)
-*Research Assistant, Performance and Resource Optimization in Networks Lab (PROTON LAB)*
+*Research Assistant - Granted with the UNM Graduate Assistantship, Performance and Resource Optimization in Networks Lab (PROTON LAB)*
 - Reinforcement Learning
 - Game Theory
 - Resource Orchestration in Interdependent Systems
