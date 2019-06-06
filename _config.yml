@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : # "BCEBFF"
 staticman:
   allowedFields          : ['Nathan R. Patrizi', 'npatrizi@unm.edu', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
