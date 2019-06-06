@@ -5,8 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-- Reinforcement Learning
 - Game Theory
+- Contract Theory
+- Reinforcement Learning
+- Network Science
 - Public Safety Systems
 - Resource Orchestration in Interdependent Systems
-- Blockchain
