@@ -10,7 +10,8 @@
  *
 */
 
-$background-color: blue; 
+$background-color: BCEBFF; 
+
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
@@ -33,11 +34,6 @@ $background-color: blue;
 @import "forms";
 
 @import "page";
-.page-header {
-  color: #ffff;
-  background-color: #BCEBFF;
-  background-image: linear-gradient(120deg, #5073B8, #BCEBFF);
-}
 @import "archive";
 @import "sidebar";
 
