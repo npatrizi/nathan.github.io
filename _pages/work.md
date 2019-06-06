@@ -11,6 +11,6 @@ author_profile: true
 - Presented research and work being done in the lab to visitors to the University at open houses and visits with potential research partners. 
 
 ### 2. Sandia National Laboratories, Albuquerque, NM (March 2019 – Current)
-	*Year Round Intern (current)*
+*Year Round Intern (current)*
 - Developed a program to sense surrounding environment such as pressure, temperature and humidity, through the use of an Arduino/Raspberry Pi. Graphically showed the changes in the environment through real time plotting. 
 
