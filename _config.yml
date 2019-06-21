@@ -13,7 +13,7 @@ name                     : &name "Nathan R. Patrizi"
 description              : &description "Ph.D. Student at University of New Mexico,USA"
 url                      : https://npatrizi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "npatrizi/nathan.github.io"
+repository               : "npatrizi/npatrizi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
