@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-[Click Here to view my Up-to-date Curriculum Vitae!](http://magwang1.github.io/files/nathan.cv.pdf)
+[Click Here to view my Up-to-date Curriculum Vitae!](http://npatrizi.github.io/files/Nathan_R._Patrizi_Resume 2.3.pdf)
 
